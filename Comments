@@ -1,0 +1,10 @@
+For this exercise, I chose to greate a simple GUI which allows the user to easily understand and communicate with the program. 
+This application allows the user to add the information required to calculate a quote for their clients.
+
+I wanted to create something that is nearly foolproof - in school we were taught to leave little to no room for dicrepencies 
+from the users. The simplicity of the GUI removes potential confusion from the user, when the task at hand is a simple one. 
+
+If I were to do the exercise another way, I might consider creating a webapp with even more embellished asthetics. I would also consider
+splitting up the code if it were a larger task. For example, I would create a seperate class for the frame, and instantiate it in the main
+method as opposed to creating it inside all one class. I like java's object-oriented abilities, so if I were to do the project another way,
+I would try to include more of that.
