@@ -11,11 +11,11 @@ Command prompt, java
 
 ***Deployment***
 Once cloned from repository, add file to a safe place on your computer. (Ex. Downloads)
-Once there, get to that directory from command prompt. (Ex: cd Downloads)
+Once there, get to that directory from command prompt. (Ex: cd Downloads/Nulogy-NuPack-master)
 Once in the directory from command prompt, run the program by adding:
 
--javac NuPack.java
--java NuPack
+*-javac NuPack.java
+*-java NuPack
 
 ***Built With***
 Eclipse
